@@ -19,6 +19,11 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+I have a mind myself and recognize  
+Mind when I meet with it in any guise  
+No one can know how glad I am to find  
+On any sheet the least display of mind.  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
